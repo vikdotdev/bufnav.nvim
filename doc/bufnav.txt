@@ -1,0 +1,18 @@
+================================================================================
+                                                               *bufnav.nvim*
+
+bufnav.nvim is a plugin to extend buffer navigation. Provides
+ability to plug custom functions in between buffer switching.
+
+To find out more:
+https://github.com/vikdotdev/bufnav.nvim
+
+  :h BufNavNext
+  :h BufNavPrev
+
+BufNavNext                                                     *BufNavNext*
+  Wrapper around :bnext, switches to a next buffer.
+
+BufNavPrev                                                     *BufNavPrev*
+  Wrapper around :bprev, switches to a previous buffer.
+================================================================================
